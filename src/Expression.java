@@ -30,3 +30,9 @@ public class Expression {
         return leftBrackets.indexOf(left)==rightBrackets.indexOf(right);
     }
 }
+
+//Main Class
+//String str="[1+2)";
+//Expression exp=new Expression();
+//var result=exp.isBalanced(str);
+//System.out.println(result);
