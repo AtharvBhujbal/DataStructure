@@ -19,3 +19,8 @@ public class Stack {
         return Arrays.toString(items);
     }
 }
+//Main Class
+//Stack stack=new Stack();
+//stack.push(10);
+//stack.push(20);
+//System.out.println(stack);
